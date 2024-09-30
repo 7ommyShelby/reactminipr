@@ -1,0 +1,52 @@
+[
+    {
+        "title": "Introduction",
+        "description": "A brief overview of the topic.",
+        "flag" : false
+    },
+    {
+        "title": "Background",
+        "description": "Context and history related to the topic.",
+        "flag" : false
+    },
+    {
+        "title": "Current Trends",
+        "description": "Recent developments and trends.",
+        "flag" : false
+    },
+    {
+        "title": "Key Challenges",
+        "description": "Major obstacles and issues.",
+        "flag" : false
+    },
+    {
+        "title": "Opportunities",
+        "description": "Potential areas for growth and improvement.",
+        "flag" : false
+    },
+    {
+        "title": "Case Studies",
+        "description": "Examples and real-world applications.",
+        "flag" : false
+    },
+    {
+        "title": "Methodology",
+        "description": "Approaches and methods used.",
+        "flag" : false
+    },
+    {
+        "title": "Findings",
+        "description": "Key results and outcomes.",
+        "flag" : false
+    },
+    {
+        "title": "Recommendations",
+        "description": "Suggestions for future action.",
+        "flag" : false
+    },
+    {
+        "title": "Conclusion",
+        "description": "Summary and final thoughts.",
+        "flag" : false
+    }
+]
